@@ -23,12 +23,18 @@ Check out the full repository details [here](https://github.com).
 ## 💻 Tech Stack:
 
 👉 **Languages & Databases**
-![](https://shields.io)
-![](https://shields.io)
+<br />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="Python" />
+
+<br /><br />
 
 👉 **Data Visualization & Analytics**
-![](https://shields.io)
-![](https://shields.io)
+<br />
+<img src="https://shields.io" alt="PowerBI" />
+<img src="https://shields.io" alt="Excel" />
+
+<br /><br />
 
 👉 **Core Competencies**
 * Data Analytics & Exploratory Data Analysis (EDA)
@@ -36,8 +42,11 @@ Check out the full repository details [here](https://github.com).
 * Machine Learning & Deep Learning Models
 * Natural Language Processing (NLP) & GenAI
 
+<br />
+
 👉 **Platforms & Tools**
-![](https://shields.io)
+<br />
+<img src="https://shields.io" alt="GitHub" />
 
 ---
 
