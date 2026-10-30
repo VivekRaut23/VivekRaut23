@@ -24,17 +24,17 @@ Check out the full repository details [here](https://github.com).
 
 👉 **Languages & Databases**
 <br />
-<img src="https://shields.io" alt="MySQL" />
-<img src="https://shields.io" alt="Python" />
+![](https://shields.io)
+![](https://shields.io)
 
-<br /><br />
+<br />
 
 👉 **Data Visualization & Analytics**
 <br />
-<img src="https://shields.io" alt="PowerBI" />
-<img src="https://shields.io" alt="Excel" />
+![](https://shields.io)
+![](https://shields.io)
 
-<br /><br />
+<br />
 
 👉 **Core Competencies**
 * Data Analytics & Exploratory Data Analysis (EDA)
@@ -46,7 +46,7 @@ Check out the full repository details [here](https://github.com).
 
 👉 **Platforms & Tools**
 <br />
-<img src="https://shields.io" alt="GitHub" />
+![](https://shields.io)
 
 ---
 
