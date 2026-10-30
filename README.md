@@ -20,29 +20,21 @@ Check out the full repository details [here](https://github.com).
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack
 
-👉 **Languages & Databases**
-<p align="left">
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Python" />
+### Languages & Databases
+<p>
+<img src="https://skillicons.dev" />
 </p>
 
-👉 **Data Visualization & Analytics**
-<p align="left">
-  <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Excel" />
+### Data Visualization & Analytics
+<p>
+<img src="https://skillicons.dev" />
 </p>
 
-👉 **Core Competencies**
-* Data Analytics & Exploratory Data Analysis (EDA)
-* Interactive Business Intelligence (BI) Dashboards
-* Machine Learning & Deep Learning Models
-* Natural Language Processing (NLP) & GenAI
-
-👉 **Platforms & Tools**
-<p align="left">
-  <img src="https://shields.io" alt="GitHub" />
+### Platforms & Tools
+<p>
+<img src="https://skillicons.dev" />
 </p>
 
 ---
